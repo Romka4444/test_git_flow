@@ -6,7 +6,7 @@
 
 - - -
 
-The base endpoint is: **wss://apiws.p2pb2b.com/**
+The base endpoint is: **wss://apiws.com/**
 
 For subscribe to price, kline, state, 
 Is 3 types of markets. 
